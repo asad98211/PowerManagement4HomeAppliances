@@ -1,0 +1,1 @@
+# PowerManagement4HomeAppliances This is a simple arduino project that demonstrates the automation of power management of Home appliances. It uses Ethernet Shield to read data from a remote server and responses according to it.
